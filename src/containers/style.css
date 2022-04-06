@@ -1,0 +1,27 @@
+.photos {
+    height: 173.25px;
+    width: 275px
+}
+
+.text {
+    color: rgb(224, 13, 13);
+    text-align: center;
+}
+.textt {
+    color: red;
+   text-align: right;
+}
+ @media (min-width: 800px) {
+        .photos {
+           height: 173.25px;
+         width: 275px;
+         }
+         .text {
+            color: rgb(207, 25, 25);
+            text-align: center;
+         }
+         .textt {
+             color: red;
+            text-align: right;
+         }
+}
